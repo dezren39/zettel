@@ -2,6 +2,7 @@
 slug: github-pages
 ---
 
+yes
 
 
 
